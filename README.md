@@ -1,3 +1,4 @@
 # Inventory-management
-https://user-images.githubusercontent.com/53120751/116419649-e3f5ec80-a85a-11eb-8dfc-49e7f91fa474.mp4
+Preview
 
+https://user-images.githubusercontent.com/53120751/116421128-31bf2480-a85c-11eb-8ea8-e36410d56eb4.mp4
